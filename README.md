@@ -12,7 +12,7 @@ This copy exists to make the mod work with 7D2D Mod Launcher and sites that do n
 
 
 
-This version is for the PC version of 7 Days to Die version 2.0+
+This version is for the PC version of 7 Days to Die version 2.3+
 
 
 
